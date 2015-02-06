@@ -3,3 +3,4 @@
  3. Alternate the words "dirty" "filthy" "nasty", inserting them before each noun
  4. Replace the commas with periods
  5. Replace the periods with question marks
+ 6. At each paragraph break insert "for my mother told me so".
