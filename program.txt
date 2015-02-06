@@ -1,3 +1,11 @@
+### Text 1
+
+Pablo Neruda, "If You Forget Me" 
+
+### Text 2
+
+Karl Jung, "On the Shadow"
+
 1. Replace every "you" with "they/them/their"
  2. Replace every "I" with [ ]
  3. Alternate the words "dirty" "filthy" "nasty", inserting them before each noun
